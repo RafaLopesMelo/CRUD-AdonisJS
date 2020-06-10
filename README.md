@@ -12,8 +12,8 @@ Seu principal "problema" é ser robusto demais, ou seja, utilizá-lo em aplicaç
 
 ## 🎸 Tecnologias usadas:
 
-- AdonisJS
-- SQLite3
+- AdonisJS (Framework robusto de NodeJS, similar a frameworks já consolidados no mercado)
+- SQLite3 (Banco de dados SQL embutido)
 
 ## 💾 Instalação
 
