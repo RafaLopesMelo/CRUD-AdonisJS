@@ -2,7 +2,7 @@
 <br/><br/>
 # CRUD com AdonisJS
 
-## ⛰ Introdução
+## ⛰ &nbsp;&nbsp; Introdução
 
 Este é um projeto em que construí um simples sistema CRUD baseado em usuários e "tweets" com o framework AdonisJS, o sistema possui as operações essenciais juntamente com validação via JWT. Todas os dados são armazenados em um banco SQLite3.
 
@@ -10,31 +10,31 @@ AdonisJS é um framework NodeJS robusto que vem com diversas funcionalidades pro
 
 Seu principal "problema" é ser robusto demais, ou seja, utilizá-lo em aplicações menores é tentar matar formiga com bazuca. Para estes casos, existem outras possibilidades, sendo a principal o [Express](https://expressjs.com/) (framework enxuto e minimalista
 
-## 🎸 Tecnologias usadas:
+## 🎸 &nbsp;&nbsp; Tecnologias usadas:
 
 - AdonisJS (Framework robusto de NodeJS, similar a frameworks já consolidados no mercado)
 - SQLite3 (Banco de dados SQL embutido)
 
-## 💾 Instalação
+## 💾 &nbsp;&nbsp; Instalação
 
 Para baixar as dependências do projeto apenas rode o comando:
 
     $ npm install
 
-## 💿 Rodando o App
+## 💿 &nbsp;&nbsp; Rodando o App
 
 Para iniciar o app, apenas utilize o comando:
 
     $ npm run start
     
-## ❗️ Fique atualizado
+## ❗️ &nbsp; Fique atualizado
 
 Abaixo estão as possíveis formas de sempre se manter atualizado em relação às novidades do AdonisJS.
 
 - Site oficial: https://adonisjs.com/
 - Repositórios: https://github.com/adonisjs
     
-## 💻 Conhecimentos adquiridos
+## 💻 &nbsp;&nbsp; Conhecimentos adquiridos
 
 - Aprendizado do framework AdonisJS
 - Construção de um CRUD que aceita as principais requisições
